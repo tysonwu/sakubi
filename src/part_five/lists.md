@@ -1,4 +1,3 @@
-
 #### Lesson 36: Making lists with や and とか and と and か
 
 
@@ -11,15 +10,18 @@ Tagging items individually is grammatically simpler in japanese. The final insta
 や makes a non-exhaustive list, and doesn't strictly require each item, but the idea of them as a class of things is maintained.
 
 
-スプーンやフォークで食べること To eat with spoons or forks (or the likes).
+> スプーンやフォークで食べること To eat with spoons or forks (or the likes).
+
 と was covered as a side-note before, but here we'll cover it explicitly and compare it to や. と makes a "generic" list. It's not necessarily exhaustive, but still counts each item individually.
 
 
-リンゴと魚とタイヤキを食べた Ate taiyaki, fish, and apples.
+> リンゴと魚とタイヤキを食べた Ate taiyaki, fish, and apples.
+
 とか makes a "vague" list. It's vague, and therefore non-exhaustive, but each item is its own; the items aren't treated as a class of things. 
 
 
-スプーンとかフォークで食べること To eat with a spoon or fork (or something).
+> スプーンとかフォークで食べること To eat with a spoon or fork (or something).
+
 か can be used in a similar way, but lists alternatives.
 
 

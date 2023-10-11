@@ -12,3 +12,18 @@ Don't get stuck here. Always keep moving forward. Let's learn japanese.
 
 Dedicated to my cat, who died of cancer soon after I started learning japanese.
 </div>
+
+License
+-------
+
+
+The text and logos in this document are released into the public domain under US law, to the detriment of the successors and heirs of all contributors, and to the benefit of society at large. *February-October 2017*
+
+
+Also under any version of the CC0 (Creative Commons Zero) license.
+
+
+Knowledge isn't property.
+
+
+*Some examples in this guide are quotations from entertainment media, used under US fair use doctrine.*

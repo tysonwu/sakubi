@@ -2,8 +2,6 @@
 
 [Home](home.md)
 
-[License](license.md)
-
 [Preface](preface.md)
 
 [What you need](what_you_need.md)
@@ -123,7 +121,7 @@
 
 [The end](theend.md)
 
-[License](license_1.md)
+[License](license.md)
 
 [Dedication](dedication.md)
 

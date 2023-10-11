@@ -1,4 +1,3 @@
-
 ### Part 7: Relatively speaking
 
 

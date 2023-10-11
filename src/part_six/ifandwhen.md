@@ -1,26 +1,26 @@
-
 #### Lesson 41: If and when with と たら なら
 
 
 と is used to link two events where one is a natural consequence of the other, in a strongly sequential way.
 
 
-飲み続けると危ない薬 Medicine that's dangerous if you keep taking it.
+> 飲み続けると危ない薬 Medicine that's dangerous if you keep taking it.
+
 たら is used to link two events where one sequentially comes after the other, but without literally stating that there's a direct causation between the two.
 
 
 たら attaches to the reduced verb-sticky form.
 
 
-私と話しててもつまらないんだったら私帰るわ  
+> 私と話しててもつまらないんだったら私帰るわ  
+> > I'll go home if it's boring just talking to me.  
+> > (note: the doubled て comes from ている -> てる -> てて)
 
-I'll go home if it's boring just talking to me.  
-
-(note: the doubled て comes from ている -> てる -> てて)
 Because it doesn't state direct causation, it's very appropriate for questions that depend on something hypothetical.
 
 
-来たらどうですか How about you come over?
+> 来たらどうですか How about you come over?
+
 *(Side note: たらどうですか is sometimes treated like its own construction.)*
 
 
@@ -36,9 +36,9 @@ Using の can give the nuance that the condition is a instance of the statement,
 The meaning of なら does not change because of adding the の. The difference in nuance comes from the verb or い-adjective being nominalized, not の coming before なら. The exact meaning of the statement does not change much.
 
 
-行くのなら If you're going  
+> 行くのなら If you're going  
+> > 行くなら If you go
 
-行くなら If you go
 Sometimes なら is said as ならば. In fact, ならば is where なら comes from. This ば is the one we already know.
 
 

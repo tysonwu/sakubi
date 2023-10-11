@@ -1,4 +1,3 @@
-
 #### Hidden Intermission
 
 
@@ -21,5 +20,3 @@ Japanese school grammar cares a lot about the classical bases, and they have the
 
 
 I should emphasize that the 未然形 has real uses of its own in classical japanese. The contention comes from conflating all -a forms of (back then) 四段 verbs with the 未然形 category name, which is named such because of a particular use of it. Modern linguistics treats categories as things that happen when you *use* words, or as features of "universal grammar", and applying categories too widely causes a lot of problems when grammar people try talking to eachother. The 未然形 category is a legitimate description of a real grammatical feature of classical japanese, but the name doesn't fit all uses of the stem.
-
-

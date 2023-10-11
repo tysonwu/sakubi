@@ -1,4 +1,3 @@
-
 #### Intermission: What's subarashiki about poetry anyway?
 
 

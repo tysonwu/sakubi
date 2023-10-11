@@ -1,137 +1,51 @@
-
 #### Lesson 31: Generic nouns and nominalization with 事, 物, ところ, and の
 
 
 事 こと and 物 もの both mean "thing". 事 is generally used for intangibles like actions or states, and 物 is generally used for tangibles like objects.
 
 
-私のこと知らないの？ D'ya not know about me?  
+> 私のこと知らないの？ D'ya not know about me?
+>
+> 可愛いもの好き I like cute things.
 
-可愛いもの好き I like cute things.
 所 ところ is a word that means "place", and is used in similar patterns, including ones about intangible places like places in time or progress, and facets/aspects of an entity. Singling out an abstract point in time is extremely flexible, and can imply things like completion, change in state, etc.
 
 
-彼女は珍しいところもある There's some unusual points to her, too.  
+> 彼女は珍しいところもある There's some unusual points to her, too.
+>
+> 同情したところで、過去はもう―― Even if I had felt the same, the past is already... ("By the point I felt the same, ...")
 
-同情したところで、過去はもう―― Even if I had felt the same, the past is already... ("By the point I felt the same, ...")
 All three of these generic nouns can turn entire phrases into nouns. This lets japanese use phrases like things without using embedded clauses. This is basically a special simplified case of the relative clauses we learned about in lesson 11.
 
 
-そんなもののために死ぬことはない  
+> そんなもののために死ぬことはない
+>
+> There's no dying for such a thing.
+>
+> (Metaphorically, "There is not to die for the purpose of such a thing")
+>
+>
+> このところ夜は
+>
+> Recent nights
+>
+>
+> 事件なんかあったものね
+>
+> Well, some kind of incident happened.
 
-There's no dying for such a thing.  
-
-(Metaphorically, "There is not to die for the purpose of such a thing")  
-
-  
-
-このところ夜は  
-
-Recent nights  
-
-  
-
-事件なんかあったものね  
-
-Well, some kind of incident happened.
 Both of these uses extend to の for some reason.
 
 
-赤いのはいいよ  
+> 赤いのはいいよ
+>
+> The red one is fine.
+>
+>
+> いつ使用するのがいいですか
+>
+> When should I use it?
+>
+> (Metaphorically, "When is using good?")
 
-The red one is fine.  
-
-  
-
-いつ使用するのがいいですか  
-
-When should I use it?  
-
-(Metaphorically, "When is using good?")
 This use of の is the reason の is used in のだ.
-
-
-#### Optional Lesson 1: Polarity
-
-
-*This is a very hard lesson. This lesson is completely optional.*
-
-
-This topic is very hard to explain because it's so intuitive, and happens at a level so far away from language itself.
-
-
-Because this optional lesson is so hard, you might want to try learning polarity in an easier way instead. Try watching [this video from The Ling Space](https://www.youtube.com/watch?v=vd8cjyxHQdw) first. It might be all you need.
-
-
-
-Video link: [Why Can't "Any" Go Just Anywhere? NPIs; The Ling Space](https://www.youtube.com/watch?v=vd8cjyxHQdw)
-
-
-First of all, it's important to note that polarity isn't a grammatical category or a type of word, like "tense" or "verb" are. Instead, polarity is something that the human mind does, that it enforces on language, and in the process, makes complicated logical constructions less contextual.
-
-
-Because it's almost entirely subconscious, you don't notice it, so when polarity is explained in an abstract way, it's confusing. But polarity is an easy grammatical process. It's just hard to talk about because it operates, basically, at a level before words.
-
-
-The simplest form of polarity is when words can only be used with negative phrases. "Rejecting" positive phrases is basically why it's called polarity.
-
-"I'm not cooking yet."
-It's not normal to say "I'm cooking yet". You might be able to in certain situations, but not neutral ones.
-
-
-The hard form of polarity has to do with logical entailment, and can show up in entirely "positive" phrases. The simplest triggers of backwards polarity in positive phrases are "any" and "every". This is why some uses of も act funny. Questions can do this same thing. This is why か doesn't always make questions.
-
-
-"Has anyone left yet?"
-Another example of a word that dislikes neutral positive phrases is "ever".
-
-
-"I hate everyone I've ever met."  
-
-"I haven't ever said that."  
-
-"Has he ever come?"
-It would be unnatural to say "I have ever come" in a neutral situation.
-
-
-The only way to explain this kind of polarity is to accept that the "direction" of "logical entailment" is what triggers different polarities, not negativity. One way to think about this is to think which way implications point when you negate things.
-
-
-"I've had potato chips before" implies "I've had snacks before"  
-
-"I haven't had potato chips before" doesn't imply "I haven't had snacks before"
-In fact, the implication isn't just destroyed, it's outright reversed.
-
-
-"I've had snacks before" doesn't imply "I've had potato chips before"  
-
-"I haven't had snacks before" implies "I haven't had potato chips before"
-Specific things imply general things. Specific things entail general things.
-
-
-Polarity happens because some words only make sense when the "direction" of "entailment" is pointing a certain direction for what they're modifying.
-
-
-"I haven't had snacks" is general in the sense that it leaves a lot open in the future, but it doesn't leave a lot open in the past. "haven't" implies that the past is fixed, the statement must be true in the past. But the future is still "general" because it's uncertain.
-
-
-When you add "yet", it takes the statement and makes super sure that it's not implying anything about the future. It takes "uncertainty" about the future and turns it into "objective uncertainty" about the future. "Objective uncertainty" is more specific than "uncertainty".
-
-
-With "I've had snacks", the future is already set in stone. You can't go to a future where the statement starts being false. There's no room for "yet" here, since "yet" operates on uncertain futures.
-
-
-The only way for it to make sense is if the logic starts from "yet", like "I have yet to have snacks", which takes an uncertain future and puts a positive statement on it, and means basically the same as "I haven't had snacks yet".
-
-
-When there isn't enough polarity at play, logical entailment can make things ambiguous. Polarity makes ambiguous combinations of entailment less common.
-
-
-When you use words like this, you just know. You already know how to use them, where they can be used, how they work. In your head, it's not this complex.
-
-
-At the very least, this is a good example why grammar can't really be taught.
-
-
-
-

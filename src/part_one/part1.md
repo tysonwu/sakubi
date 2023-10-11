@@ -1,4 +1,7 @@
 
+SECTION ONE: ABSOLUTE BEGINNER
+-------------------------------
+
 ### Part 1: Getting Started
 
 

@@ -1,4 +1,3 @@
-
 #### Lesson 53: Wrongness with だめ, いけない, ならない, featuring "must", and bonus, some contractions
 
 
@@ -11,23 +10,19 @@
 ならない and いけない are relatively common, because they're used in a very common double negative construction that means "must".
 
 
-なければならない
+> なければならない
+
 There are several variations on this. They boil down to "not to X" "wrong".
 
 
-なければならない  
+> なければならない  
+> > なければいけない  
+> > ねばならない  
+> > ねばならぬ  
+> > なかったらいけない  
+> > なくてはいけない  
+> > etc.
 
-なければいけない  
-
-ねばならない  
-
-ねばならぬ  
-
-なかったらいけない  
-
-なくてはいけない  
-
-etc.
 Different ways of forming it have different flavors, levels of strength, and implications about why or in what way it must be done.
 
 
@@ -37,15 +32,16 @@ Different ways of forming it have different flavors, levels of strength, and imp
 On the topic of there being a million ways to say something, there are some contractions that you have to watch out for if you don't have a lot of experience reading. Here are a few. Contractions that were explicitly explained elsewhere in this guide, they aren't listed. Always be careful about contractions in speech and dialogue.
 
 
-
-
-| Phrase | Contraction |
-| なにするの？ | なにすんの？ |
-| なにをしてるのだ | なにをしてんだ |
-| 来るな・くるな | 来んな・くんな |
-| (surname)さんのうち | (surname)さんち |
-| わからない | わかんない |
-| わからない | わからねー |
-| すごい | すげー |
-
+<table class="fluffy">
+<thead><tr><td>Phrase</td><td>Contraction</td></tr></thead>
+<tbody>
+<tr><td>なにするの？</td><td>なにすんの？</td></tr>
+<tr><td>なにをしてるのだ</td><td>なにをしてんだ</td></tr>
+<tr><td>来るな・くるな</td><td>来んな・くんな</td></tr>
+<tr><td>(surname)さんのうち</td><td>(surname)さんち</td></tr>
+<tr><td>わからない</td><td>わかんない</td></tr>
+<tr><td>わからない</td><td>わからねー</td></tr>
+<tr><td>すごい</td><td>すげー</td></tr>
+</tbody>
+</table>
 

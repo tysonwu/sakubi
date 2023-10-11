@@ -1,4 +1,3 @@
-
 #### Lesson 49: Approximately ころ, くらい, たり, and limits with まで, ほど, すぎる
 
 
@@ -17,9 +16,9 @@ When it acts as a suffix, ころ is voiced, becoming ごろ. ごろ attaches to 
 まで essentially means "up to" or "until". Unlike "until" (like "until friday"), まで does not explicitly exclude what it marks.
 
 
-月曜日から金曜日まで  
+> 月曜日から金曜日まで  
+> > Monday through friday (including monday and friday)
 
-Monday through friday (including monday and friday)
 まで can be used with verb phrases, but it can only be attached to informal, tenseless statements. In other words, they have to be plain and not past tense.
 
 
@@ -29,17 +28,19 @@ Reality check: までに is a compound particle meaning "at some time before" ra
 ほど essentially means "as" in terms of a comparison. For some left-hand arguments of ほど, the statement being compared has to be negative. In such comparisons, ほど acts as a limit on how well the statement applies.
 
 
-君ほど強くない Not as strong as you
+> 君ほど強くない Not as strong as you
+
 In positive statements where ほど attaches to an "amount", it's approximate.
 
 
-半分ほど食べた I ate around half.
+> 半分ほど食べた I ate around half.
+
 Compounds like それほど act as their own thing and have different semantics than their parts combined. それほど means something like "that much".
 
 
 過ぎる すぎる is a verb and means "exceed" or "surpass". As an auxiliary verb, すぎる means "too much" or an excess, and attaches to the verb-sticky form.
 
 
-食べすぎる Eating too much  
+> 食べすぎる Eating too much  
+> > 優しすぎる Too kind
 
-優しすぎる Too kind

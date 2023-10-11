@@ -1,4 +1,3 @@
-
 #### Intermission: What even is an infinitive?
 
 
@@ -20,9 +19,9 @@ This concept is hard to explain when you move away from "fusional" languages lik
 There's light on the other end of the tunnel. The main use of infinitives in english is to link verbs with words that *do* have a "finite"ness to them.
 
 
-"I want to go now."  
+> "I want to go now."  
+> > "It's not that he's going to be late, he just doesn't know what to do".
 
-"It's not that he's going to be late, he just doesn't know what to do".
 Here, "to go", "to be late", and "to do" are (respectively) clearly attached to "want", "going", and "what". The rule isn't as simple as "stick two verbs together", and the same is true with japanese's て "form" and the stem the て "form" attaches to.
 
 

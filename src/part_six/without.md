@@ -1,4 +1,3 @@
-
 #### Lesson 40: Being more negative: なくて, ないで, and ず and ずに
 
 
@@ -8,11 +7,13 @@ We briefly covered なくて and ないで before in the context of ください
 なくて is the て "particle". When it acts as a conjunction (and not a topic), なくて usually implies that a negative statement is the reason for another statement. It doesn't *always* imply a reason, though.
 
 
-早く起きなくて　仕事に遅れた
+> 早く起きなくて　仕事に遅れた
+
 ないで can be a conjunction too. Unlike なくて, it doesn't carry the "reason" nuance. Sometimes it has the nuance that Y happens without X happening, but this is something you shouldn't worry about it till you're adept at japanese.
 
 
-話せないで殺す He kills without talking.
+> 話せないで殺す He kills without talking.
+
 Covered earlier, ないで is also used for conjugations like ないでください.
 
 
@@ -34,4 +35,5 @@ Remember, て "form" vs "particle" is an abstraction. It's only meant to help yo
 ずに is how ず is normally used in modern japanese, but it can go either way.
 
 
-一言も話さずに終わった Ended it without saying a single thing.
+> 一言も話さずに終わった Ended it without saying a single thing.
+

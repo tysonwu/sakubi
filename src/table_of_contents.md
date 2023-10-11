@@ -5,9 +5,7 @@ Table of Contents
 
 [Introduction](intro.md)
 
-
-### [SECTION ONE: ABSOLUTE BEGINNER](beginner.md)
-
+### SECTION ONE: ABSOLUTE BEGINNER
 
 #### [Part 1: Getting Started](part_one/part1.md)
 
@@ -47,7 +45,7 @@ Table of Contents
 * [Lesson 23: Verbs review](part_three/endofordeals.md)
 
 
-### [SECTION TWO: ABSOLUTE TERRITORY](territory.md)
+### SECTION TWO: ABSOLUTE TERRITORY
 
 
 At this point, you should begin reading, looking ahead to future lessons to see what the guide has to say about unfamiliar grammar. The remainder of this guide is half guidance, half reference.

@@ -1,4 +1,3 @@
-
 #### Intermission: Notes on なぜ なんで どうして
 
 

@@ -1,4 +1,3 @@
-
 #### Lesson 52: Being done for someone with やる あげる もらう くれる
 
 
@@ -8,15 +7,12 @@ As a normal verb, やる is highly contextual, and you might as well treat it li
 As an auxiliary verb, やる expresses that the action was in some way undesirable to someone involved, like doing something at their expense.
 
 
-ケーキを食べてやった  
+> ケーキを食べてやった  
+> > I ate the cake (at someone's expense)  
+>   
+> > 怒鳴り付けてやった  
+> > I shouted at him (even though he wouldn't want it)
 
-I ate the cake (at someone's expense)  
-
-  
-
-怒鳴り付けてやった  
-
-I shouted at him (even though he wouldn't want it)
 あげる is a "give" word. In the structure てあげる, it means that someone did the action "for the sake of" someone else. But there's a catch: When it's the core of the independent statement itself, and not hidden away inside a relative clause or modified in such a way, it never refers to an action done for the sake of the speaker (nor for the sake of someone the speaker is speaking for).
 
 

@@ -1,4 +1,3 @@
-
 #### Intermission: Keigo and some archaic speech
 
 
@@ -20,7 +19,8 @@ These phrases basically act like euphemisms for normal words. These phrases are 
 Here's an example of the keigo versions of the word する "do":
 
 
-なさる (respectful)　いたす (humble)　します (polite)
+> なさる (respectful)　いたす (humble)　します (polite)
+
 Keigo cares about your social status compared to other people, which is why there's several categories and why it's prescribed.
 
 

@@ -1,4 +1,3 @@
-
 #### Intermission: The Gauntlet
 
 

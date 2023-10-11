@@ -1,4 +1,3 @@
-
 #### Intermission: Two notes on の and のだ
 
 

@@ -1,4 +1,3 @@
-
 #### Intermission: Single piece of trivia on と
 
 

@@ -1,4 +1,3 @@
-
 #### Lesson 6: What is a verb? Nothing but a miserable pile of conjugations!
 
 
@@ -11,13 +10,11 @@ Right now, japanese has two categories of regular verbs. It used to have categor
 Here's an example, using a ます form that we'll learn properly in Lesson 12. Don't bother memorizing this table.
 
 
-見る／見ます, "one-form" verb.  
+> 見る／見ます, "one-form" verb.  
+> > 切る／切ります, "five-form" verb, ending in る.  
+> > 買う／買います, "five-form" verb, ending in う.  
+> > 死ぬ／死にます, "five form" verb, ending in ぬ.
 
-切る／切ります, "five-form" verb, ending in る.  
-
-買う／買います, "five-form" verb, ending in う.  
-
-死ぬ／死にます, "five form" verb, ending in ぬ.
 One-form verbs always end in る, and just drop the る when they conjugate. The stuff leading up to that る is the verb's basic identity, and isn't changed. The verb itself, aside from conjugation, has only "one form".
 
 
@@ -27,7 +24,7 @@ Five form verbs can end in one of several syllables. In the present tense, this 
 Five-form verbs in the dictionary form can end in one of several different syllables, but it always ends in the vowel "u".
 
 
-切る　殺す　死ぬ　選ぶ　読む　問う　動く　急ぐ　持つ
+> 切る　殺す　死ぬ　選ぶ　読む　問う　動く　急ぐ　持つ> 
 
 One-form verbs in the dictionary form always end in る. But the part before the る always ends in a phonetic "e" or "i". The dictionary form just attaches る to the one-form verb's *one and only base*, the part of the one-form verb that never changes.
 Japanese verb conjugation likes to pile words together, and you end up with things like 見られたくなかった. Over the next few lessons, we start learning the logic behind these long piles of conjugations. This makes them easier to break down.

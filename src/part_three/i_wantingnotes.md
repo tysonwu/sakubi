@@ -1,4 +1,3 @@
-
 #### Intermission: Notes on wanting
 
 
@@ -14,4 +13,5 @@ As such, the お in the five-form base used to actually be an あ, meaning that 
 About たい. 見たい みたい mean "seems", not just "wants to look". No matter what grammar you're looking at, some expressions work outside the normal rules. It's vital for you to think about what things mean in context, not just what their parts imply. In the case of みたい, the "seems" meaning is usually in kana and follows a verb, but not every exception is predictable like みたい.
 
 
-死んだみたい Looks like he died
+> 死んだみたい Looks like he died
+

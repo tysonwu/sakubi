@@ -1,4 +1,3 @@
-
 #### Intermission: Notes on いる, ある, である, and っす
 
 

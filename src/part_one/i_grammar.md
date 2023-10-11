@@ -1,4 +1,3 @@
-
 #### Intermission: Japanese japanese grammar is bad, too, actually
 
 
@@ -10,15 +9,12 @@ In japanese school grammar, で is considered the て "particle" of だ. (Well, 
 It's confusing when you learn the etymology of だ, because you end up with a system where で and だ are derived from eachother with に caught in the crossfire.
 
 
-ツインテールになりました  
+> ツインテールになりました  
+> > I became twintails.  
+>   
+> > 本当にツインテールで嬉しい  
+> > (Garbled dysfluent otaku noises)
 
-I became twintails.  
-
-  
-
-本当にツインテールで嬉しい  
-
-(Garbled dysfluent otaku noises)
 The easiest way to think of things is that they lead back to に and て, not だ. But it's important to remember that japanese school grammar still considers で to be the て "particle" of だ, because it's allowed to act like it is.
 
 

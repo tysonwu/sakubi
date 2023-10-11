@@ -1,4 +1,3 @@
-
 #### Intermission: The dreaded parse and auxiliary verbs
 
 
@@ -11,37 +10,23 @@ When relative clauses come together in a sufficiently complex way, "parsing", or
 Here's a popular meme about this exact phenomenon.
 
 
-顔が赤い魚を食べた猫  
+> 顔が赤い魚を食べた猫  
+>   
+> > (顔が赤い)(魚を食べた)猫  
+> > The cat that ate a fish and the cat had a red head.  
+>   
+> > ((顔が赤い)魚)を食べた猫  
+> > The cat that ate a fish and the fish had a red head.  
+>   
+> > (顔が(赤い魚)を食べた)猫  
+> > The cat whose head ate a red fish.  
+>   
+> > 顔が((赤い魚)を食べた猫)  
+> > The head is a cat that ate a red fish.  
+>   
+> > 顔が赤い((魚を食べた)猫)  
+> > The head is a red cat that ate a fish.
 
-  
-
-(顔が赤い)(魚を食べた)猫  
-
-The cat that ate a fish and the cat had a red head.  
-
-  
-
-((顔が赤い)魚)を食べた猫  
-
-The cat that ate a fish and the fish had a red head.  
-
-  
-
-(顔が(赤い魚)を食べた)猫  
-
-The cat whose head ate a red fish.  
-
-  
-
-顔が((赤い魚)を食べた猫)  
-
-The head is a cat that ate a red fish.  
-
-  
-
-顔が赤い((魚を食べた)猫)  
-
-The head is a red cat that ate a fish.
 Coming up in the next lesson, an auxiliary verb is a verb that attaches to another verb and gives meaning to that verb instead of having its own meaning.
 
 

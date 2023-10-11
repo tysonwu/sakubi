@@ -1,4 +1,3 @@
-
 #### Optional Lesson 4: Under the rug: A mess of particles and auxiliaries
 
 
@@ -14,10 +13,10 @@ Most of these are listing particles or emphatic particles that are hard to forge
 きり・っきり is a particle with two meanings.
 
 
-In the pattern <noun>きり, it acts like an "only" marker.
+In the pattern \<noun\>きり, it acts like an "only" marker.
 
 
-In the pattern <statement>っきり, it basically means "ever since <statement>".
+In the pattern \<statement\>っきり, it basically means "ever since \<statement\>".
 
 
 Some set phrases like 思いっきり, すっきり, てっきり, and はっきり contain the kana っきり, but aren't using the meaning described above.
@@ -54,5 +53,3 @@ These sorts of "even an X" emphasis overlap with some uses of も and , which is
 
 
 がち is an auxiliary verb that means that someone or something has a tendency. The tendency is usually undesirable from an outside view.
-
-

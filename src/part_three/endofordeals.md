@@ -1,4 +1,3 @@
-
 #### Lesson 23: Verbs review
 
 
@@ -8,19 +7,14 @@ We've finally run into all of the basic stems of the five-form verbs, so this is
 The names given on the left are plain english representations of the japanese names. Where needed, the japanese names have alternative translations. If a form/base/stem is referred to in the rest of the guide, I'll use the plain english name, not the japanese name.
 
 
-死な "none such" form ("as if it has not yet happened" 未然形)  
+> 死な "none such" form ("as if it has not yet happened" 未然形)  
+> > 死の tentative form   
+> > 死に verb-sticky form (連用形)  
+> > 死ん verb-sticky form (連用形) (reduced)  
+> > 死ぬ terminal form (終止形)  
+> > 死ね "some such" form ("as if it were so" 已然形 / "hypothetical" 仮定形)  
+> > 死ね imperative form (命令形)
 
-死の tentative form   
-
-死に verb-sticky form (連用形)  
-
-死ん verb-sticky form (連用形) (reduced)  
-
-死ぬ terminal form (終止形)  
-
-死ね "some such" form ("as if it were so" 已然形 / "hypothetical" 仮定形)  
-
-死ね imperative form (命令形)
 If you count, you'll identify that the base stem "shi-n" (which ends on a consonant) inflects to each of the five japanese vowels. This is what "five-form" means.
 
 
@@ -30,17 +24,13 @@ Four-form, or 四段 "yodan", shows up regularly in english writing on japanese 
 One-form verbs look like so:
 
 
-食べ "none such" form ("as if it has not yet happened" 未然形)  
+> 食べ "none such" form ("as if it has not yet happened" 未然形)  
+> > 食べ tentative form \*  
+> > 食べ verb-sticky form (連用形)  
+> > 食べる terminal form (終止形)  
+> > 食べれ "some such" form ("as if it were so" 已然形 / "hypothetical" 仮定形)  
+> > 食べろ imperative form (命令形)
 
-食べ tentative form \*  
-
-食べ verb-sticky form (連用形)  
-
-食べる terminal form (終止形)  
-
-食べれ "some such" form ("as if it were so" 已然形 / "hypothetical" 仮定形)  
-
-食べろ imperative form (命令形)
 *\* The よ isn't part of this base. 食べよ alone is an alternative imperative.*
 
 

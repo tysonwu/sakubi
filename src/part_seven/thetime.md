@@ -1,4 +1,3 @@
-
 #### Lesson 50: Doing the time with 後, 前/先, 時 (note さっき)
 
 
@@ -41,6 +40,6 @@ The conjunction X先に works almost exactly the same way as X前に.
 時 is a noun that means "time", but if you give it a relative clause, it can act like a conjunction.
 
 
-また繋げたい時は言ってね  
+> また繋げたい時は言ってね  
+> > Tell me when you want to connect again, 'kay?
 
-Tell me when you want to connect again, 'kay?

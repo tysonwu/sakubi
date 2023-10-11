@@ -1,4 +1,3 @@
-
 #### Optional Lesson 3: Formal logical conjunctions または, あるいは, 及び, and more
 
 
@@ -11,21 +10,18 @@ Every term in this lesson is usually a written construction, though they can be 
 または (又は) separates mutually exclusive options. Normally, it only separates two items, but said items can be lists themselves. Note that または has complex syntax restrictions on what it can attach to.
 
 
-来るか、または連絡する  
+> 来るか、または連絡する  
+> > Comes, otherwise communicates  
+>   
+> > 犬、または猫  
+> > A dog **or**> a cat
 
-Comes, otherwise communicates  
-
-  
-
-犬、または猫  
-
-A dog **or** a cat
 もしくは (若しくは) is another logical conjunction meaning "or". Unlike または, it isn't specifically mutually exclusive. It just presents two alternatives.
 
 
-死ぬか、もしくは死亡する  
+> 死ぬか、もしくは死亡する  
+> > Die, or pass away
 
-Die, or pass away
 あるいは (或いは) is another alternative-presenting conjunction, but this time it has another common use. In addition to acting like "or", it can also act like an interjection that just emphasize the possibility of something.
 
 
