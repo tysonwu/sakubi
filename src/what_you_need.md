@@ -17,5 +17,6 @@ If you need more guidance for things other than grammar, try the [DJT Guide](htt
 
 **Check this:** 置 How does this character render? If it's missing the vertical line on the left side, your browser is using chinese fonts for japanese. You may need to install japanese fonts or change some system language settings.
 
-
-![](unihan%20test.png)
+<p align="center">
+  <img src="img/unihan test.png" />
+</p>
