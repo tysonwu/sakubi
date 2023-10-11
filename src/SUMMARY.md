@@ -19,6 +19,7 @@
 # SECTION ONE: ABSOLUTE BEGINNER
 
 - [Part 1: Getting Started](part_one/part1.md)
+
   - [Lesson 1: State of being with だ and です](part_one/being.md)
   - [Intermission: Vowels](part_one/i_vowels.md)
   - [Lesson 2: Nouns, pronouns](part_one/noun.md)
@@ -45,6 +46,7 @@
   - [Intermission: Keigo and some archaic speech](part_one/i_keigo.md)
 
 - [Part 2: Rest](part_two/part2.md)
+
   - [Lesson 13: Questions with か and の, featuring のだ](part_two/questions.md)
   - [Intermission: Two notes on の and のだ](part_two/i_noninotes.md)
   - [Lesson 14: Why, cruel world? なぜ なんで どうして](part_two/why.md)
@@ -75,6 +77,7 @@
 # SECTION TWO: ABSOLUTE TERRITORY
 
 - [Part 4: Communicating](part_four/part4.md)
+
   - [Lesson 24: "Quoting" with って and と and という/っていう/つう taking note of だって](part_four/quoting.md)
   - [Lesson 25: Adverbs with と-adverbs, に-adverbs, and い-adjectives even](part_four/adverbs.md)
   - [Lesson 26: Sentence ending particles with ね, な, よ, ぜ, ぞ, わ, さ](part_four/enders.md)
@@ -86,6 +89,7 @@
   - [Optional Lesson 1: Polarity](part_four/polarity.md)
 
 - [Part 5: Getting a point across](part_five/part5.md)
+
   - [Lesson 32: Just with だけ, のみ, ただ, ばかり, しか](part_five/just.md)
   - [Lesson 33: Still, already, and yet with もう まだ また](part_five/still.md)
   - [Lesson 34: Not wanting with まい and permission with いい, ますか/ませんか](part_five/donotwant.md)
@@ -97,6 +101,7 @@
   - [Optional Lesson 2: Bonus auxiliaries: 見る, とする, と思う, と決める](part_five/bonux.md)
 
 - [Part 6: Putting things together](part_six/part6.md)
+
   - [Lesson 40: Being more negative: なくて, ないで, and ず and ずに](part_six/without.md)
   - [Lesson 41: If and when with と たら なら](part_six/ifandwhen.md)
   - [Lesson 42: Concurrence with ながら あいだ うちに つつ](part_six/concurrence.md)
