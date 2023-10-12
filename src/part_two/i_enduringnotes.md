@@ -1,6 +1,8 @@
 #### Intermission: Notes on ている and てある
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 Progressive ている can also be something that happens on a regular basis, not just at the moment. Like "I go to a highschool".
 

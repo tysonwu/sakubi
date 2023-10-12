@@ -20,7 +20,9 @@ Unfortunately, if context doesn't make it obvious, gut feeling is the only way t
 
 In addition to the one-form's ambiguity problem, every passive form can mean the potential sometimes. It's up to you to figure out whether a given use of the passive means a passive, a passive-potential, or just a potential.
 
-_A million eyes gloss over in annoyance._
+<div class="warning">
+A million eyes gloss over in annoyance.
+</div>
 
 ありえる is irregular and is always potential.
 
@@ -30,7 +32,7 @@ Now we can talk about 出来る できる, a one-form verb that means "made" or 
 >
 > 昨日は勉強できなかった Yesterday I couldn't study.
 >
-> できません I can't.  
-> _(In english, "can not" and "cannot" are assertive in speech. できません isn't, so the contraction is appropriate despite ます)_>
+> できません I can't.
+> _(In english, "can not" and "cannot" are assertive in speech. できません isn't, so the contraction is appropriate despite ます)_
 >
 > 私は日本語出来ない (unintelligible dysfluent gagging)

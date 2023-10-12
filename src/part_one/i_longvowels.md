@@ -1,6 +1,8 @@
 #### Intermission: Long vowels and gemination
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 In japanese, "long vowel" doesn't mean what it means when you're talking about english. Japanese long vowels literally last longer.
 

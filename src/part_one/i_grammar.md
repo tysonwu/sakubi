@@ -1,6 +1,8 @@
 #### Intermission: Japanese japanese grammar is bad, too, actually
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 In japanese school grammar, で is considered the て "particle" of だ. (Well, they don't distinguish the て form and て particle, but same difference.) This is because of the way it can act like a conjunction. Make sure not to confuse the words "conjugation" and "conjunction".
 

@@ -47,4 +47,6 @@ Here's an example of counters in use:
 
 In japanese, "countable words" are a closed set, made up entirely of these counters. In english, almost every word is countable. For example, "money" is an uncountable word. You can't say "I have a hundred money".
 
-_(To students of grammar: つ was a genitive marker in very olden times)_
+<div class="warning">
+To students of grammar: つ was a genitive marker in very olden times
+</div>

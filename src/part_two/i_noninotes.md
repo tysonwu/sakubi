@@ -1,6 +1,8 @@
 #### Intermission: Two notes on の and のだ
 
-_Intermissions are useful, but if they stress you out, you shouldn't read them._
+<div class="warning">
+Intermissions are useful, but if they stress you out, you shouldn't read them.
+</div>
 
 When の stands alone at the end of a の-statement, it sounds feminine or cute.
 

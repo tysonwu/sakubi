@@ -1,6 +1,8 @@
 #### Intermission: Notes on いる, ある, である, and っす
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 要る いる "need" is a different word than いる "exist" and conjugates differently.
 

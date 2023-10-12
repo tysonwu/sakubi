@@ -1,6 +1,8 @@
 #### Intermission: Vowels
 
-_Intermissions are useful, but if they stress you out, you shouldn't read them._
+<div class="warning">
+Intermissions are useful, but if they stress you out, you shouldn't read them.
+</div>
 
 Japanese only has five vowels. The quality of the vowels sometimes changes slightly depending on the sounds near them, but not enough to make new vowels.
 

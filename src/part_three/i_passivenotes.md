@@ -1,6 +1,8 @@
 #### Intermission: Notes on the passive
 
-_Intermissions are useful, but if they stress you out, you shouldn't read them._
+<div class="warning">
+Intermissions are useful, but if they stress you out, you shouldn't read them.
+</div>
 
 Sometimes から is used for the agent of a passive verb. This shows a difference in nuance. から is sometimes unacceptable.
 

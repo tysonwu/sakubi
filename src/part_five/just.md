@@ -42,7 +42,9 @@ Sometimes (but rarely), しか is used outside of complete statements.
 
 > 「みんな来たの？」 「うん、彼しか」 "Did everyone come?" "Yeah, except him."
 
-_Warning: the above example is completely contrived._
+<div class="warning">
+Warning: the above example is completely contrived.
+</div>
 
 The difference between しか and だけ in negatively-polarized statements is basically the reason that polarity exists.
 

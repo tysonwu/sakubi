@@ -1,6 +1,8 @@
 #### Lesson 11: Getting detailed with relative clauses and な-adjectives
 
-_In grammar, a "clause" is a phrase that contains a single statement. "It's already over" is a clause. The "I'm late" in "I'm sorry I'm late" is a clause. Compound sentences, like "I'm late because the traffic was bad", contain multiple clauses._
+<div class="warning">
+In grammar, a "clause" is a phrase that contains a single statement. "It's already over" is a clause. The "I'm late" in "I'm sorry I'm late" is a clause. Compound sentences, like "I'm late because the traffic was bad", contain multiple clauses.
+</div>
 
 Relative clauses are statements that are somehow embedded inside another statement. We're going to cover relative clauses that modify nouns. Relative clauses that modify nouns act like "the house _I used to live in_".
 
@@ -58,4 +60,6 @@ Now let's look at な-adjectives, named after the な that comes after them.
 >
 > English-language books. (NOT "books of english")
 
-_(To students of grammar: this use of の is a full blown genitive case. The normal use of の with nouns for attribution and possession is similar to the genitive, but distinct, especially because japanese has の-adjectives.)_
+<div class="warning">
+To students of grammar: this use of の is a full blown genitive case. The normal use of の with nouns for attribution and possession is similar to the genitive, but distinct, especially because japanese has の-adjectives.
+</div>

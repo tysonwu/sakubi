@@ -1,6 +1,8 @@
 #### Intermission: Devoicing
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 In certain places, the vowels "u" and "i" can be "devoiced", meaning that they're not pronounced at all. です and でした are examples. It's still acceptable to pronounce the vowels in these cases, but you'll sound weird.
 

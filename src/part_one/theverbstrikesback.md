@@ -51,4 +51,6 @@ We will learn another use of this stem, one where it's not slurred with five-for
 
 Conjugation is more complicated than this, but take this one step at a time.
 
-_(問う, 請う, and 恋う have irregular past conjugations among う-final five-form verbs. They might not be particularly common verbs, but they use a う stem for the past tense instead of the lengthened consonant. This is an example of the slurring being irregular.)_
+<div class="warning">
+問う, 請う, and 恋う have irregular past conjugations among う-final five-form verbs. They might not be particularly common verbs, but they use a う stem for the past tense instead of the lengthened consonant. This is an example of the slurring being irregular.
+</div>

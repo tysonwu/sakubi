@@ -1,6 +1,8 @@
 #### Intermission: What even is an infinitive?
 
-_Intermissions are useful, but if they stress you out, you shouldn't read them. Especially this one._
+<div class="warning">
+Intermissions are useful, but if they stress you out, you shouldn't read them. Especially this one.
+</div>
 
 In the grammar taught in schools, english speakers are usually taught that verbs like "to go" are infinitives, without being given a good explanation about what that means or why they're called that.
 

@@ -1,6 +1,8 @@
 #### Intermission: Notes on なぜ なんで どうして
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 The なん in なんで corresponds to 何 なに, a word meaning "what".
 

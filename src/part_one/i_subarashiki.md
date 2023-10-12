@@ -1,6 +1,8 @@
 #### Intermission: What's subarashiki about poetry anyway?
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 In classical japanese, the attributive form of い-adjectives ended in き, not い, and き is therefore an adnominal form. You'll run into this form all the time since it's still intelligible to native speakers, so it's no use hiding it.
 

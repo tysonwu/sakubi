@@ -1,6 +1,8 @@
 #### Intermission: "Synthetic" language
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 Japanese is synthetic. The linguistics term "synthetic" means that a language likes to synthesize (!) words out of small parts. Generally speaking. Above all, "synthetic" does **not** mean a manufactured, synthesized language itself.
 

@@ -21,4 +21,6 @@ Also under any version of the CC0 (Creative Commons Zero) license.
 
 Knowledge isn't property.
 
-_Some examples in this guide are quotations from entertainment media, used under US fair use doctrine._
+<div class="warning">
+Some examples in this guide are quotations from entertainment media, used under US fair use doctrine.
+</div>

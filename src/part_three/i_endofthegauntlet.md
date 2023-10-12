@@ -1,6 +1,8 @@
 #### Intermission: The Gauntlet
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 This is the last intermission. You've almost made it through the gauntlet. After the next lesson, you're through. Keep it up.
 

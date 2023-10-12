@@ -1,6 +1,8 @@
 #### Intermission: The dreaded parse and auxiliary verbs
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 When relative clauses come together in a sufficiently complex way, "parsing", or selecting the right relationship between words, gets increasingly complex. In all languages, the _correct parse_ is selected with a combination of common sense and how common the possible patterns are.
 

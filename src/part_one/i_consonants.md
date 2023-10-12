@@ -1,6 +1,8 @@
 #### Intermission: Consonant irregularity
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 _The italic text in this intermission will indicate values in the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet#Letters)._
 

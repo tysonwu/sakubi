@@ -1,6 +1,8 @@
 #### Intermission: Notes on wanting
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 The volitional form おう/よう comes from a sound change from "au" (as in the sound a, followed by the sound u) to "ou" (as in a long o). The original form was e.g. 見やう and 死なう, but remember that classical japanese verbal conjugation is **very** different than what it is today.
 

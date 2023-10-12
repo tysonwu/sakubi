@@ -1,6 +1,8 @@
 #### Intermission: Notes on the potential
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 Traditional japanese grammar says that the passive and potential are blurry in general, even for five-form verbs, but it's only a matter of time before they're not. A doubled-up form, as in 食べれられる, is already in very common colloquial use. I've been told it's feminine.
 

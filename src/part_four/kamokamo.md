@@ -42,4 +42,6 @@ On the topic of なに-based grammatical terms, なんて is frequently used to 
 >
 > なんと優しい。 How kind. (not sarcastic)
 
-_For more information on negative "orientation", which has to do with how logical inclusion/exclusion works outside of simple statements, see Optional Lesson 1 on "Polarity". All languages do this._
+<div class="warning">
+For more information on negative "orientation", which has to do with how logical inclusion/exclusion works outside of simple statements, see Optional Lesson 1 on "Polarity". All languages do this.
+</div>

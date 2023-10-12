@@ -1,6 +1,8 @@
 #### Intermission: Notes on demonstratives
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 The "like so" determiners are parallel to よう, but よう isn't part of a demonstrative category. It means just some particular "kind".
 

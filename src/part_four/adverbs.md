@@ -28,4 +28,6 @@ Adverbs sometimes take する to construct an action about the adverb. This is s
 >
 > 確りして Hang in there / Stay frosty / Get a hold of yourself
 
-_(To students of grammar: the use of に as an "adverbial" marker for nouns might have a different etymology than the use of に as an oblique case marker. It might correspond to the defective Old Japanese copula n- \*ni/no2/nite.)_
+<div class="warning">
+To students of grammar: the use of に as an "adverbial" marker for nouns might have a different etymology than the use of に as an oblique case marker. It might correspond to the defective Old Japanese copula n- \*ni/no2/nite.
+</div>

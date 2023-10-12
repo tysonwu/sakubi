@@ -1,5 +1,7 @@
 #### Intermission: Single piece of trivia on と
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 The manga よつばと！ stylizes its title as "YOTSUBA&!", with an ampersand.

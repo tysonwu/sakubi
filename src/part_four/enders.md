@@ -43,4 +43,7 @@ Note that adding ぜ to だ makes だぜ act like a compound sentence ending par
 > さぁ、見てみる Well, let's see.
 
 Finally, looking back at だぜ, we can finally say that the reason です is allowed to attach to い-adjectives is because です itself acts like a sentence-ending particle.
-_(To students of grammar: these are "modal particles".)_
+
+<div class="warning">
+To students of grammar: these are "modal particles".
+</div>

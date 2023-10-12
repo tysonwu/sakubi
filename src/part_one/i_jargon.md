@@ -1,6 +1,8 @@
 #### Intermission: About jargon
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 First of all, a disclaimer: 問うた might not be used that often anymore. I was told 問いかけた is the normal way of saying it in speech, a phrasal verb. All the same, it's not hard to find 問うた.
 

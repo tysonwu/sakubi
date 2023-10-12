@@ -1,6 +1,8 @@
 #### Hidden Intermission
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 The redundancy of the classical stems, and the fact that they don't cover everything about modern japanese conjugation without additional rules, is why the classical categorization is not used much anymore, except as a reference. The names it introduced are still used though.
 

@@ -1,6 +1,8 @@
 #### Optional Lesson 1: Polarity
 
-_This is a very hard lesson. This lesson is completely optional._
+<div class="warning">
+This is a very hard lesson. This lesson is completely optional.
+</div>
 
 This topic is very hard to explain because it's so intuitive, and happens at a level so far away from language itself.
 

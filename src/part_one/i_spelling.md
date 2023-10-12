@@ -1,6 +1,8 @@
 #### Intermission: Spelling irregularities
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 Japanese has a small number of spelling irregularities. These irregularities make written japanese easier to read, not harder.
 Particles: When the particles は, を, and へ are spoken, they're pronounced as "wa", "o", and "e", not as "ha", "wo", or "he". Actually, "wo" is still correct, and you see it all the time in singing, but it sounds silly in normal speech.

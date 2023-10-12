@@ -32,7 +32,9 @@ You might remember that we used ではない to derive the negative of だ, じ�
 
 > である　であった　ではない
 
-_(Warning: であった is identical to 出会った written in kana, another verb's past tense.)_
+<div class="warning">
+Warning: であった is identical to 出会った written in kana, another verb's past tense.
+</div>
 
 Usually, the topic particle は is inserted between で and ない here. However, you **do** sometimes run into でない, especially in entertainment media.
 

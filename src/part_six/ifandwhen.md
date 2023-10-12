@@ -18,7 +18,9 @@ Because it doesn't state direct causation, it's very appropriate for questions t
 
 > 来たらどうですか How about you come over?
 
-_(Side note: たらどうですか is sometimes treated like its own construction.)_
+<div class="warning">
+Side note: たらどうですか is sometimes treated like its own construction.
+</div>
 
 なら is used when the speaker supposes the first statement is true, and that it implies that the second statement is true. There's basically no restriction on sequence or causation here, only the nature of the truth of the statements. In fact, the second statement can "happen" before the conditional statement does, which other condition constructions can't do.
 
@@ -34,4 +36,6 @@ The meaning of なら does not change because of adding the の. The difference 
 
 Sometimes なら is said as ならば. In fact, ならば is where なら comes from. This ば is the one we already know.
 
-_(To students of grammar: ならば comes from にあり (see also: にてあり/である) -> なり -> ならば. Not from なる (become). なら is the 未然形 of なり. In fact, this is one of the reasons I didn't call the 未然形 form "imperfective": it's a misnomer. And "irrealis" overreaches. "None such" is at worst meaningless.)_
+<div class="warning">
+To students of grammar: ならば comes from にあり (see also: にてあり/である) -> なり -> ならば. Not from なる (become). なら is the 未然形 of なり. In fact, this is one of the reasons I didn't call the 未然形 form "imperfective": it's a misnomer. And "irrealis" overreaches. "None such" is at worst meaningless.
+</div>

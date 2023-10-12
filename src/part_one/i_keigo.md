@@ -1,6 +1,8 @@
 #### Intermission: Keigo and some archaic speech
 
-_Intermissions are optional._
+<div class="warning">
+Intermissions are optional.
+</div>
 
 Keigo is a prescribed way of using japanese that encodes information about respect, humility, and politeness. Some of the politeness mechanisms of normal japanese (like ます and です) overlap with keigo, but keigo goes beyond that.
 

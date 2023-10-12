@@ -36,7 +36,9 @@ One-form verbs look like so:
 >
 > 食べろ imperative form (命令形)
 
-_\* The よ isn't part of this base. 食べよ alone is an alternative imperative._
+<div class="warning">
+* The よ isn't part of this base. 食べよ alone is an alternative imperative.
+</div>
 
 As you can see, there's a lot more irregularity here, but the verb's base kana stem never changes, hence the name one-form. The _one and only base_.
 
