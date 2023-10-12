@@ -21,8 +21,9 @@ To frame a question politely, you can use ですか or ますか. ますか is o
 > 古いですか Is it old?
 >
 > 来るですか Is it coming?
+>
+> 食べますか Won't you eat?
 
-食べますか Won't you eat?
 Sometimes か forms things that look like rhetorical questions, since they're not really looking for an answer. But they're not actually rhetorical, because they're not trying to make a point. Every language does this.
 
 > あら、そうか。 Oh, is that so.
